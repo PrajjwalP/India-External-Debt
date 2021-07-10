@@ -1,6 +1,8 @@
 <p><h1>India's External Debt</h1></p>
 The project is to forcast India’s external debt using ARIMA Modelling for a certain number of years on the dataset obtained from the RBI website. <br>
 ARIMA Model is a forecasting model that utilize historical information to make predictions.
+- Time series plots to study the different variables/components of India's external debt.
+- Predict India's external debt for next 10 years (2020-2030).
 
 <p><h3>Sample Output</h3></p>
 ![external debt](https://user-images.githubusercontent.com/58332165/125174147-dce74500-e1e0-11eb-8ba4-6d28dfbd3139.PNG)
